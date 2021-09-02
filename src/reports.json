@@ -1,0 +1,31 @@
+[
+  {
+    "ID": 10300000,
+    "Source": "REPORT",
+    "sourceIdentityId": 6750,
+    "referenceId": 6706,
+    "referenceType": "REPORT",
+    "state": "OPEN",
+    "reportType": "SPAM",
+    "message": "",
+    "reportId": 6706,
+    "referenceResourceId": 0,
+    "referenceResourceType": "REPLY",
+    "date": "2017-10-02T16:09:04.258Z"
+  },
+  {
+    "ID": 1322891,
+    "Source": "REPORT",
+    "sourceIdentityId": 0,
+    "referenceId": 130,
+    "referenceType": "REPORT",
+    "state": "OPEN",
+    "reportType": "SPAM",
+    "message": "",
+    "reportId": 130,
+    "referenceResourceId": 0,
+    "referenceResourceType": "ARTICLE",
+    "date": "2017-10-30T14:34:06.569Z"
+  }
+]
+  
