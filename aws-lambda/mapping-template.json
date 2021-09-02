@@ -1,0 +1,5 @@
+{
+  "reportid": "$input.params('reportid')",
+  "http_method": "$context.httpMethod",
+  "body" : $input.json('$')
+}
